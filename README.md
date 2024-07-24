@@ -26,7 +26,7 @@ switchport mode trunk
 no shutdown
 ```
 
-<img width="250" alt="Screen Shot 2022-04-08 at 10 10 34 AM" src="https://github.com/user-attachments/assets/0000a9e7-463b-45e3-8bc6-89f8a84fc22d">
+<img width="250" alt="Screen Shot 2022-04-08 at 10 10 34 AM" src="assets/Screen Shot 2022-04-08 at 10.10.34 AM.png">
 
 Good Cloud Engineers use codeblocks for both code and errors that appear in the console. 
 
