@@ -38,6 +38,12 @@ RuntimeError: This is a custom error message
 ```
 
 > Here is an example of using a codeblock for an error that appears in bash.
+## Step 2 - How to take screenshots
+
+A screenshot is a capture of the screen you are using whether on a phone or a laptop/computer.
+
+**Do not do this when sharing code to other engineers**
+
 
 ## Step 3 - Use Github Flavoured Task List
 
